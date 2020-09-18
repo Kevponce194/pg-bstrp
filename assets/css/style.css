@@ -1,0 +1,40 @@
+.goldenrod-1-hex {
+    color: #FF9E18;
+    color: #C4D7ED;
+    color: #ABC8E2;
+    color: #375D9A;
+    color: #183174;
+}
+
+/* * {
+    outline: solid 1px red;
+} */
+
+body {
+    font-family: 'Noto Sans SC', sans-serif; 
+    color: gray;
+} 
+
+.lead   {
+    padding-left: 1em;
+}
+
+hr  {
+    color: solid 2px #183174
+}
+
+a  {
+    color: #FF9E18;
+}
+
+p.lead:last-child {
+    color: #183174;
+    font-weight: bold;
+}
+h5 {
+    color: #183174;
+}
+
+.card {
+    padding: 4px 2px 2px 2px;
+}
